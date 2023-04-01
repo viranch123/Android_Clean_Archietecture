@@ -3,7 +3,7 @@
 This repository contains a sample app that implements MVVM architecture using Kotlin, Dagger,
 Retrofit, Coroutines, Flow, StateFlow, and etc.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amitshekhariitbhu/MVVM-Architecture-Android/master/assets/banner-mvvm-arch-beginners.jpg">
+  <img src="https://raw.githubusercontent.com/Android_Clean_Archietecture/main/assets/banner-mvvm-arch-beginners.jpg">
 </p>
 <br>
 <p align="center">
