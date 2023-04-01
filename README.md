@@ -16,7 +16,7 @@ Retrofit, Coroutines, Flow, StateFlow, and etc.
 <br>
 <br>
 
-## [My Personal Linkedin profile - amitshekhar.me](https://www.linkedin.com/in/viranch-sharma-8837ba204/) - For Any doubt or query.
+## [My Personal Linkedin profile - Viranch sharma](https://www.linkedin.com/in/viranch-sharma-8837ba204/) - For Any doubt or query.
 
 ### Major Highlights
 
